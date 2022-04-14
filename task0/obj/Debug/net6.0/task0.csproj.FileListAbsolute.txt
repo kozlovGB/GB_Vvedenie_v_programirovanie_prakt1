@@ -1,0 +1,15 @@
+C:\Users\Асус\Documents\GeekeBrains\Введение в програмирование\lesson1\prakt1\task0\bin\Debug\net6.0\task0.exe
+C:\Users\Асус\Documents\GeekeBrains\Введение в програмирование\lesson1\prakt1\task0\bin\Debug\net6.0\task0.deps.json
+C:\Users\Асус\Documents\GeekeBrains\Введение в програмирование\lesson1\prakt1\task0\bin\Debug\net6.0\task0.runtimeconfig.json
+C:\Users\Асус\Documents\GeekeBrains\Введение в програмирование\lesson1\prakt1\task0\bin\Debug\net6.0\task0.dll
+C:\Users\Асус\Documents\GeekeBrains\Введение в програмирование\lesson1\prakt1\task0\bin\Debug\net6.0\task0.pdb
+C:\Users\Асус\Documents\GeekeBrains\Введение в програмирование\lesson1\prakt1\task0\obj\Debug\net6.0\task0.csproj.AssemblyReference.cache
+C:\Users\Асус\Documents\GeekeBrains\Введение в програмирование\lesson1\prakt1\task0\obj\Debug\net6.0\task0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Асус\Documents\GeekeBrains\Введение в програмирование\lesson1\prakt1\task0\obj\Debug\net6.0\task0.AssemblyInfoInputs.cache
+C:\Users\Асус\Documents\GeekeBrains\Введение в програмирование\lesson1\prakt1\task0\obj\Debug\net6.0\task0.AssemblyInfo.cs
+C:\Users\Асус\Documents\GeekeBrains\Введение в програмирование\lesson1\prakt1\task0\obj\Debug\net6.0\task0.csproj.CoreCompileInputs.cache
+C:\Users\Асус\Documents\GeekeBrains\Введение в програмирование\lesson1\prakt1\task0\obj\Debug\net6.0\task0.dll
+C:\Users\Асус\Documents\GeekeBrains\Введение в програмирование\lesson1\prakt1\task0\obj\Debug\net6.0\refint\task0.dll
+C:\Users\Асус\Documents\GeekeBrains\Введение в програмирование\lesson1\prakt1\task0\obj\Debug\net6.0\task0.pdb
+C:\Users\Асус\Documents\GeekeBrains\Введение в програмирование\lesson1\prakt1\task0\obj\Debug\net6.0\task0.genruntimeconfig.cache
+C:\Users\Асус\Documents\GeekeBrains\Введение в програмирование\lesson1\prakt1\task0\obj\Debug\net6.0\ref\task0.dll
